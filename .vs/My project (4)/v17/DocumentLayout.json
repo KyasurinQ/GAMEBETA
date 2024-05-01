@@ -1,0 +1,668 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shunc\\My project (4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\enviromentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\enviromentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\allgamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\allgamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|c:\\users\\shunc\\my project (4)\\assets\\script\\choppabletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\choppabletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\equipableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\equipableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\enviromentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\enviromentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\playrermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playrermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\equipsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\equipsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\saveslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\saveslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\loadslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\loadslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\ExecuteEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\ExecuteEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\buildsystem\\constructionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buildsystem\\constructionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\ingamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\ingamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\craftingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\craftingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\buildsystem\\constructable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buildsystem\\constructable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\buildsystem\\ghostitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buildsystem\\ghostitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\blueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\blueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\resourcehealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resourcehealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\globalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\globalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\caloriesbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\caloriesbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\trashslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trashslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\hydrationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hydrationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|C:\\Users\\shunc\\My project (4)\\assets\\script\\ai_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCF4D4-C92D-D7D8-1EDE-9B62906D5B60}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ai_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\shunc\\my project (4)\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:15:51.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnviromentManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\EnviromentManager.cs",
+              "RelativeDocumentMoniker": "Assets\\EnviromentManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\EnviromentManager.cs",
+              "RelativeToolTip": "Assets\\EnviromentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:18:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnviromentData.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\EnviromentData.cs",
+              "RelativeDocumentMoniker": "Assets\\EnviromentData.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\EnviromentData.cs",
+              "RelativeToolTip": "Assets\\EnviromentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:57:22.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\SaveManager.cs",
+              "ViewState": "AQIAACkCAAAAAAAAAAAQwE0CAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:14:50.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventorySystem.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\InventorySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InventorySystem.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\InventorySystem.cs",
+              "RelativeToolTip": "Assets\\Script\\InventorySystem.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAawHEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:43:59.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InteractableObject.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Script\\InteractableObject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:37:38.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\PlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:48:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EquipSystem.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\EquipSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EquipSystem.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\EquipSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\EquipSystem.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAhwO0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:52:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllGameData.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\AllGameData.cs",
+              "RelativeDocumentMoniker": "Assets\\AllGameData.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\AllGameData.cs",
+              "RelativeToolTip": "Assets\\AllGameData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:44:20.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChoppableTree.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\ChoppableTree.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ChoppableTree.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\ChoppableTree.cs",
+              "RelativeToolTip": "Assets\\Script\\ChoppableTree.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA2wEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:41:37.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipableItem.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\EquipableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EquipableItem.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\EquipableItem.cs",
+              "RelativeToolTip": "Assets\\Script\\EquipableItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:24:18.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayrerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\PlayrerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayrerMovement.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\PlayrerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayrerMovement.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:10:05.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MouseMovement.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\MouseMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\MouseMovement.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBoAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:22:06.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerState.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:36:46.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\MenuManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:01:40.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:54:06.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaveSlot.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\SaveSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveSlot.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\SaveSlot.cs",
+              "RelativeToolTip": "Assets\\SaveSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:37:03.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\SettingsManager.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:11:01.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoadSlot.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\LoadSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\LoadSlot.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\LoadSlot.cs",
+              "RelativeToolTip": "Assets\\LoadSlot.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:09:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AQIAAPsBAAAAAAAAAAAMwBECAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:26:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExecuteEvents.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\ExecuteEvents.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\ExecuteEvents.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\ExecuteEvents.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\ExecuteEvents.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAMwA8BAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:26:40.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAMwHEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:26:24.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InGameMenu.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\InGameMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\InGameMenu.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\InGameMenu.cs",
+              "RelativeToolTip": "Assets\\InGameMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:50:14.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConstructionManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\BuildSystem\\ConstructionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BuildSystem\\ConstructionManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\BuildSystem\\ConstructionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\BuildSystem\\ConstructionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:18:06.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Constructable.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\BuildSystem\\Constructable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BuildSystem\\Constructable.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\BuildSystem\\Constructable.cs",
+              "RelativeToolTip": "Assets\\Script\\BuildSystem\\Constructable.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwF4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:43:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\InventoryItem.cs",
+              "RelativeToolTip": "Assets\\Script\\InventoryItem.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAqwKAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:42:46.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SoundManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:22:15.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GhostItem.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\BuildSystem\\GhostItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BuildSystem\\GhostItem.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\BuildSystem\\GhostItem.cs",
+              "RelativeToolTip": "Assets\\Script\\BuildSystem\\GhostItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:41:37.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CraftingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\CraftingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CraftingSystem.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\CraftingSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\CraftingSystem.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:24:15.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Script\\ItemSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:56:52.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SelectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\SelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SelectionManager.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\SelectionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SelectionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:36:52.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Blueprint.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\Blueprint.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Blueprint.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\Blueprint.cs",
+              "RelativeToolTip": "Assets\\Script\\Blueprint.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T23:15:34.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GlobalState.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\GlobalState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GlobalState.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\GlobalState.cs",
+              "RelativeToolTip": "Assets\\Script\\GlobalState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:18:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResourceHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\ResourceHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResourceHealthBar.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\ResourceHealthBar.cs",
+              "RelativeToolTip": "Assets\\Script\\ResourceHealthBar.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:06:25.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CaloriesBar.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\CaloriesBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CaloriesBar.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\CaloriesBar.cs",
+              "RelativeToolTip": "Assets\\Script\\CaloriesBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:26:04.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Script\\HealthBar.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:25:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TrashSlot.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\TrashSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TrashSlot.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\TrashSlot.cs",
+              "RelativeToolTip": "Assets\\Script\\TrashSlot.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowEAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:28:09.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HydrationBar.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\HydrationBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HydrationBar.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\HydrationBar.cs",
+              "RelativeToolTip": "Assets\\Script\\HydrationBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:26:00.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DragDrop.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\DragDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DragDrop.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\DragDrop.cs",
+              "RelativeToolTip": "Assets\\Script\\DragDrop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:57:33.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AI_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\AI_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AI_Movement.cs",
+              "ToolTip": "C:\\Users\\shunc\\My project (4)\\Assets\\Script\\AI_Movement.cs",
+              "RelativeToolTip": "Assets\\Script\\AI_Movement.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:38:42.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

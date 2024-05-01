@@ -1,0 +1,2 @@
+*.psdfile filter=lfs diff=lfs merge=lfs -text
+file.psd filter=lfs diff=lfs merge=lfs -text
